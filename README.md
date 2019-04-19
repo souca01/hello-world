@@ -1,2 +1,3 @@
 # hello-world
 Primeiro Repositório no GitHub
+Olá, estou eu aqui aprendendo coisas novas. Hoje aprendendo como mexer neste repositório e ver como ele funciona na prática. Estou curioso para ver onde isso vai dar. hahahaha...
